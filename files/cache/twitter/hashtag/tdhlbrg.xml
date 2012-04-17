@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xml:lang="en-US">
+  <id>tag:search.twitter.com,2005:search/#tdhlbrg</id>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=%23tdhlbrg"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=%23tdhlbrg"/>
+  <title>#tdhlbrg - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=%23tdhlbrg&amp;since_id=15451083136573441"/>
+  <updated>2010-12-16T18:36:11+00:00</updated>
+</feed>

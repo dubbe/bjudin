@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geoname>
+<toponymName>Kalmar</toponymName>
+<name>Kalmar</name>
+<lat>56.66157</lat>
+<lng>16.36163</lng>
+<geonameId>2702261</geonameId>
+<countryCode>SE</countryCode>
+<countryName>Sweden</countryName>
+<fcl>P</fcl>
+<fcode>PPLA</fcode>
+<fclName>city, village,...</fclName>
+<fcodeName>seat of a first-order administrative division</fcodeName>
+<population>34744</population>
+<alternateNames>Calmaria,Kal'mar,Kalmar,Kalmar kommuna,Kalmar stad,Municipalita di Kalmar,Municipalità di Kalmar,ka er ma,Кальмар,卡爾馬</alternateNames>
+<elevation/>
+<continentCode>EU</continentCode>
+<adminCode1>09</adminCode1>
+<adminName1>Kalmar</adminName1>
+<adminCode2>0880</adminCode2>
+<adminName2>Kalmar Kommun</adminName2>
+<alternateName lang="la">Calmaria</alternateName>
+<alternateName lang="link">http://en.wikipedia.org/wiki/Kalmar</alternateName>
+<alternateName lang="da">Kalmar</alternateName>
+<alternateName lang="de">Kalmar</alternateName>
+<alternateName lang="en">Kalmar</alternateName>
+<alternateName lang="fi">Kalmar</alternateName>
+<alternateName lang="fr">Kalmar</alternateName>
+<alternateName lang="it">Kalmar</alternateName>
+<alternateName lang="nds">Kalmar</alternateName>
+<alternateName lang="nl">Kalmar</alternateName>
+<alternateName lang="no">Kalmar</alternateName>
+<alternateName lang="pl">Kalmar</alternateName>
+<alternateName lang="pt">Kalmar</alternateName>
+<alternateName lang="sv">Kalmar</alternateName>
+<alternateName lang="vo">Kalmar</alternateName>
+<alternateName lang="fo">Kalmar kommuna</alternateName>
+<alternateName lang="sv">Kalmar stad</alternateName>
+<alternateName lang="it">Municipalità di Kalmar</alternateName>
+<alternateName lang="ru">Кальмар</alternateName>
+<alternateName lang="zh">卡爾馬</alternateName>
+<timezone dstOffset="2.0" gmtOffset="1.0">Europe/Stockholm</timezone>
+</geoname>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xml:lang="en-US">
+  <id>tag:search.twitter.com,2005:search/#julafton</id>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=%23julafton"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=%23julafton"/>
+  <title>#julafton - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=%23julafton&amp;since_id=20735906407256064"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-12-26T02:40:34Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=20735906407256064&amp;page=2&amp;q=%23julafton"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:18858681156247552</id>
+    <published>2010-12-26T02:40:34Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/perj_84/statuses/18858681156247552"/>
+    <title>@Hemmingsson låter som #julafton</title>
+    <content type="html">&lt;a href="http://twitter.com/Hemmingsson"&gt;@Hemmingsson&lt;/a&gt; låter som &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-26T02:40:34Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/1143792469/Sk_rmavbild_2010-10-13_kl._13.47.54_normal.png"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>perj_84 (P J)</name>
+      <uri>http://twitter.com/perj_84</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18783404069748737</id>
+    <published>2010-12-25T21:41:27Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/champoot/statuses/18783404069748737"/>
+    <title>Gårdagens två bästa tweets plats ett"@jangradvall: "Eleanor Rigby"-stämning på Stockholms gator nu på förmiddagen." #julafton</title>
+    <content type="html">Gårdagens två bästa tweets plats ett&amp;quot;&lt;a href="http://twitter.com/jangradvall"&gt;@jangradvall&lt;/a&gt;: &amp;quot;Eleanor Rigby&amp;quot;-stämning på Stockholms gator nu på förmiddagen.&amp;quot; &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T21:41:27Z</updated>
+    <link type="image/png" rel="image" href="http://a1.twimg.com/profile_images/1152797267/IMG_0641__2__normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://mobile.twitter.com" rel="nofollow"&gt;Twitter for Android&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>champoot (Hampus Hägg)</name>
+      <uri>http://twitter.com/champoot</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18735419646550016</id>
+    <published>2010-12-25T18:30:46Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/MCastanedaSeger/statuses/18735419646550016"/>
+    <title>Ny bloggpost: JULAFTON! http://goo.gl/L8dDB #blogg #julafton</title>
+    <content type="html">Ny bloggpost: JULAFTON! &lt;a href="http://goo.gl/L8dDB"&gt;http://goo.gl/L8dDB&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23blogg" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#blogg');"&gt;#blogg&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T18:30:46Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/1155243379/Monica_twitter_2_normal.JPG"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>MCastanedaSeger (Monica C. Segerström)</name>
+      <uri>http://twitter.com/MCastanedaSeger</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18680082407096320</id>
+    <published>2010-12-25T14:50:53Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/kawasart/statuses/18680082407096320"/>
+    <title>Alla tre systrarna var rörande överens om att leka lite med Barbie där på kvällen. Dock att kläderna var lite horiga. #julafton</title>
+    <content type="html">Alla tre systrarna var rörande överens om att leka lite med Barbie där på kvällen. Dock att kläderna var lite horiga. &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T14:50:53Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/1195919135/Kajsa_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>kawasart (Kajsa Wallin)</name>
+      <uri>http://twitter.com/kawasart</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18679645679394816</id>
+    <published>2010-12-25T14:49:09Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/kawasart/statuses/18679645679394816"/>
+    <title>När barnen gått och lagt sig och föräldrarna gått hem så fortsatte vi kvällen med att göra kaos med jesusbarnet och klä på Barbie #julafton</title>
+    <content type="html">När barnen gått och lagt sig och föräldrarna gått hem så fortsatte vi kvällen med att göra kaos med jesusbarnet och klä på Barbie &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T14:49:09Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/1195919135/Kajsa_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>kawasart (Kajsa Wallin)</name>
+      <uri>http://twitter.com/kawasart</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18643133222883328</id>
+    <published>2010-12-25T12:24:03Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/slim_swede/statuses/18643133222883328"/>
+    <title>Lugn #julafton för polisen - #Sverige - #Skåne - 
+#Sydsvenskan - #Nyheter: http://t.co/TKQ62xl</title>
+    <content type="html">Lugn &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt; för polisen - &lt;a href="http://search.twitter.com/search?q=%23Sverige" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Sverige');"&gt;#Sverige&lt;/a&gt; - &lt;a href="http://search.twitter.com/search?q=%23Sk%C3%A5ne" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Skåne');"&gt;#Skåne&lt;/a&gt; - 
+&lt;a href="http://search.twitter.com/search?q=%23Sydsvenskan" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Sydsvenskan');"&gt;#Sydsvenskan&lt;/a&gt; - &lt;a href="http://search.twitter.com/search?q=%23Nyheter" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Nyheter');"&gt;#Nyheter&lt;/a&gt;: &lt;a href="http://t.co/TKQ62xl"&gt;http://t.co/TKQ62xl&lt;/a&gt;</content>
+    <updated>2010-12-25T12:24:03Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/384057408/IMG000002_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/tweetbutton" rel="nofollow"&gt;Tweet Button&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>slim_swede (David)</name>
+      <uri>http://twitter.com/slim_swede</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18610582458470400</id>
+    <published>2010-12-25T10:14:43Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/emiljakobsson/statuses/18610582458470400"/>
+    <title>Inledde julaftonsmorgonen med att smälta sönder min iPhone på kaminen. Tung start på dagen. #julafton #iPhone #Norrköping</title>
+    <content type="html">Inledde julaftonsmorgonen med att smälta sönder min iPhone på kaminen. Tung start på dagen. &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23iPhone" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#iPhone');"&gt;#iPhone&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23Norrk%C3%B6ping" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Norrköping');"&gt;#Norrköping&lt;/a&gt;</content>
+    <updated>2010-12-25T10:14:43Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/1132978704/41702_644894090_4508_q_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>emiljakobsson (Emil Jakobsson)</name>
+      <uri>http://twitter.com/emiljakobsson</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18594950144860160</id>
+    <published>2010-12-25T09:12:36Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/figgehn/statuses/18594950144860160"/>
+    <title>Undrar hur bakis Kristin Kaspersen är... #nyhetsmorgon #julafton</title>
+    <content type="html">Undrar hur bakis Kristin Kaspersen är... &lt;a href="http://search.twitter.com/search?q=%23nyhetsmorgon" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#nyhetsmorgon');"&gt;#nyhetsmorgon&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T09:12:36Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1175212254/48972_100000618331805_5222_n_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.htc.com" rel="nofollow"&gt;  HTC Peep&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>figgehn (Fredrik Idestål)</name>
+      <uri>http://twitter.com/figgehn</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18591790462402560</id>
+    <published>2010-12-25T09:00:02Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/aliasnille/statuses/18591790462402560"/>
+    <title>Då var julafton ett minne blott, men det blev den bästa julafton någonsin. Det känns mycket mer nu när vi har en liten. #julafton</title>
+    <content type="html">Då var julafton ett minne blott, men det blev den bästa julafton någonsin. Det känns mycket mer nu när vi har en liten. &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T09:00:02Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/517365910/Nille_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.hootsuite.com" rel="nofollow"&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>aliasnille (Kennet Nilsson)</name>
+      <uri>http://twitter.com/aliasnille</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18505192009900032</id>
+    <published>2010-12-25T03:15:56Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/frilansaren/statuses/18505192009900032"/>
+    <title>God jul släkt, kamrater och Internet-vänner. Hoppas ni haft en bra #julafton, det har jag, god mat och god dryck... ;-)</title>
+    <content type="html">God jul släkt, kamrater och Internet-vänner. Hoppas ni haft en bra &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;, det har jag, god mat och god dryck... ;-)</content>
+    <updated>2010-12-25T03:15:56Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1150160358/1156b047-b373-459b-8cc5-e05039855d8c_normal.png"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>frilansaren (Fredrik Jönsson)</name>
+      <uri>http://twitter.com/frilansaren</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18464568707649536</id>
+    <published>2010-12-25T00:34:30Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/R_Steffens/statuses/18464568707649536"/>
+    <title>Väldigt lite traktorer på blocket på julafton #julafton</title>
+    <content type="html">Väldigt lite traktorer på blocket på julafton &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-12-25T00:34:30Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1163972714/Bild_2010-08-20_kl._15.00_normal.jpg"/>
+    <twitter:geo>
+<georss:point>59.1919 17.8099</georss:point>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:place>
+      <twitter:id>d070f45b4dfc00b8</twitter:id>
+      <twitter:full_name>Botkyrka, Stockholms Län</twitter:full_name>
+      <twitter:type>city</twitter:type>
+    </twitter:place>
+    <twitter:source>&lt;a href="http://twitter.com/" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>R_Steffens (Robert Steffens)</name>
+      <uri>http://twitter.com/R_Steffens</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18453446915006464</id>
+    <published>2010-12-24T23:50:19Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/zarahlou/statuses/18453446915006464"/>
+    <title>Min julafton (helt på egen hand) - http://zarlei.com/julafton-2010/ - #blogg #blogpost #jul #julafton #trauma #svanjävel</title>
+    <content type="html">Min julafton (helt på egen hand) - &lt;a href="http://zarlei.com/julafton-2010/"&gt;http://zarlei.com/julafton-2010/&lt;/a&gt; - &lt;a href="http://search.twitter.com/search?q=%23blogg" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#blogg');"&gt;#blogg&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23blogpost" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#blogpost');"&gt;#blogpost&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23jul" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#jul');"&gt;#jul&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23trauma" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#trauma');"&gt;#trauma&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23svanj%C3%A4vel" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#svanjävel');"&gt;#svanjävel&lt;/a&gt;</content>
+    <updated>2010-12-24T23:50:19Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/302025929/zll_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>zarahlou (Zarah-Lou)</name>
+      <uri>http://twitter.com/zarahlou</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18450844278067200</id>
+    <published>2010-12-24T23:39:58Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/MimmiHan/statuses/18450844278067200"/>
+    <title>Kalle anka, julgröt, tomte, öppen spis, dans till MJ-musik.... min #julafton var p-e-r-f-e-k-t i Mimmi-mått mätt :) #Kosekroken</title>
+    <content type="html">Kalle anka, julgröt, tomte, öppen spis, dans till MJ-musik.... min &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt; var p-e-r-f-e-k-t i Mimmi-mått mätt :) &lt;a href="http://search.twitter.com/search?q=%23Kosekroken" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Kosekroken');"&gt;#Kosekroken&lt;/a&gt;</content>
+    <updated>2010-12-24T23:39:58Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/1202848789/Unwerth_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>MimmiHan (Mimmi Han)</name>
+      <uri>http://twitter.com/MimmiHan</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18449126379233281</id>
+    <published>2010-12-24T23:33:09Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/LinusEOhlson/statuses/18449126379233281"/>
+    <title>Nu är Julafton över och man är mätt eter all god mat. God natt och God fortsättning! #Julafton #Mätt #Sömn</title>
+    <content type="html">Nu är Julafton över och man är mätt eter all god mat. God natt och God fortsättning! &lt;a href="http://search.twitter.com/search?q=%23Julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Julafton');"&gt;&lt;b&gt;#Julafton&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23M%C3%A4tt" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Mätt');"&gt;#Mätt&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23S%C3%B6mn" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Sömn');"&gt;#Sömn&lt;/a&gt;</content>
+    <updated>2010-12-24T23:33:09Z</updated>
+    <link type="image/png" rel="image" href="http://a0.twimg.com/profile_images/1146887152/linus_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://messaging.nokia.com/site/main.do" rel="nofollow"&gt; Ovi by Nokia &lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>LinusEOhlson (Linus E. Ohlson)</name>
+      <uri>http://twitter.com/LinusEOhlson</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:18447575124279296</id>
+    <published>2010-12-24T23:26:59Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/Johannes_wl/statuses/18447575124279296"/>
+    <title>Nu är #julafton slut och jag ska gå och lägga sig. Drar sig norrut för att åka skidor. Ta många #foto medan jag är iväg!
+http://goo.gl/1ASXa</title>
+    <content type="html">Nu är &lt;a href="http://search.twitter.com/search?q=%23julafton" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#julafton');"&gt;&lt;b&gt;#julafton&lt;/b&gt;&lt;/a&gt; slut och jag ska gå och lägga sig. Drar sig norrut för att åka skidor. Ta många &lt;a href="http://search.twitter.com/search?q=%23foto" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#foto');"&gt;#foto&lt;/a&gt; medan jag är iväg!
+&lt;a href="http://goo.gl/1ASXa"&gt;http://goo.gl/1ASXa&lt;/a&gt;</content>
+    <updated>2010-12-24T23:26:59Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/1185924379/DSC_0695_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic" rel="nofollow"&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>Johannes_wl (Johannes Winger-Lang)</name>
+      <uri>http://twitter.com/Johannes_wl</uri>
+    </author>
+  </entry>
+</feed>

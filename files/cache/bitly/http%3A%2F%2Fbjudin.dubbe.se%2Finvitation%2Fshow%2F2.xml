@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+    <status_code>200</status_code>
+    <status_txt>OK</status_txt>
+    <data>
+        <url>http://bit.ly/e8Wqav</url>
+        <hash>e8Wqav</hash>
+        <global_hash>fUscbD</global_hash>
+        <long_url>http://bjudin.dubbe.se/invitation/show/2</long_url>
+        <new_hash>0</new_hash>
+    </data>
+</response>

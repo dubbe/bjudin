@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xml:lang="en-US">
+  <id>tag:search.twitter.com,2005:search/#bjudin</id>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=%23bjudin"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=%23bjudin"/>
+  <title>#bjudin - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=%23bjudin&amp;since_id=24767471416246272"/>
+  <updated>2011-01-10T08:47:28Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <entry>
+    <id>tag:search.twitter.com,2005:24386832431058944</id>
+    <published>2011-01-10T08:47:28Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24386832431058944"/>
+    <title>testar och ser om det här hjälper... #bjudin</title>
+    <content type="html">testar och ser om det här hjälper... &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-10T08:47:28Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24386392679251968</id>
+    <published>2011-01-10T08:45:43Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24386392679251968"/>
+    <title>testar och ser om hashtaggen kommer med också! #bjudin</title>
+    <content type="html">testar och ser om hashtaggen kommer med också! &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-10T08:45:43Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24375999084888066</id>
+    <published>2011-01-10T08:04:25Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24375999084888066"/>
+    <title>Testar ajax-send #bjudin</title>
+    <content type="html">Testar ajax-send &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-10T08:04:25Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24375598306557952</id>
+    <published>2011-01-10T08:02:50Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24375598306557952"/>
+    <title>Testar ajax skickande! #bjudin</title>
+    <content type="html">Testar ajax skickande! &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-10T08:02:50Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>sv</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24375265324957696</id>
+    <published>2011-01-10T08:01:30Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24375265324957696"/>
+    <title>Testar #bjudin</title>
+    <content type="html">Testar &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-10T08:01:30Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24078172974747648</id>
+    <published>2011-01-09T12:20:58Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24078172974747648"/>
+    <title>Testar #bjudin</title>
+    <content type="html">Testar &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-09T12:20:58Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://dubbe.se/stuider/LNU/1DV410/Projekt/" rel="nofollow"&gt;bjudin.nu&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:24038935638310912</id>
+    <published>2011-01-09T09:45:03Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/tdhlbrg/statuses/24038935638310912"/>
+    <title>testar #bjudin</title>
+    <content type="html">testar &lt;a href="http://search.twitter.com/search?q=%23bjudin" onclick="pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#bjudin');"&gt;&lt;b&gt;#bjudin&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2011-01-09T09:45:03Z</updated>
+    <link type="image/png" rel="image" href="http://a3.twimg.com/profile_images/83858342/n823315598_6465_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>tdhlbrg (Thomas Dahlberg)</name>
+      <uri>http://twitter.com/tdhlbrg</uri>
+    </author>
+  </entry>
+</feed>

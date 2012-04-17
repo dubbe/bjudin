@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xml:lang="en-US">
+  <id>tag:search.twitter.com,2005:search/#bydalen</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=%23bydalen" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23bydalen" rel="self"/>
+  <title>#bydalen - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23bydalen&amp;since_id=20751005905850369" rel="refresh"/>
+  <updated>2010-12-31T09:13:21+00:00</updated>
+</feed>

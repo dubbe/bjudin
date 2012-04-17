@@ -1,0 +1,368 @@
+/* 
+    Document   : styles
+    Created on : Dec 13, 2010, 8:08:19 PM
+    Author     : dubbe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body {
+    font-family: verdana, tahoma ;
+    font-size: 0.8em ;
+    margin: 0px ;
+    background: #D4E1B6 ;
+}
+a {
+    color: #015C65 ;
+}
+a img {
+    border-width: 0px ;
+}
+a.meny, a.participants {
+    color: #3FC0DF ;
+}
+h1, h2, h3, h4 {
+    font-family: Georgia ;
+    font-weight: normal ;    
+}
+h1 {
+    font-size: 4em ;
+    margin: 0px ;
+}
+h2 {
+
+    font-size: 2.5em ;
+}
+h3 {
+    margin: 0px ;
+    font-size: 1.7em ;    
+}
+h4 {
+    margin: 0px ;
+    font-size: 1.5em ;    
+}
+.container {
+  width: 960px ;
+  margin-left: auto ;
+  margin-right: auto ; 
+}
+
+#header {
+    background: #333 ;
+    border-bottom: 3px solid #80AF2F ;
+    height: 91px ;
+    margin-bottom: 30px ;
+}
+#logo {
+    float: left ;
+    color: #80AF2F ;
+    font-face: Georgia ;
+    font-size: 32px ;
+    font-weight: bold ;
+    margin-left: 50px ;
+}
+#meny { 
+    font-size: 10px ;
+    font-weight: bold;
+    color: #80AF2F ;
+    float: right ;
+    margin-top: 68px ;
+    margin-right: 50px ;
+}
+#footer {
+    text-align: center ;
+    margin-top: 40px ;
+    
+}
+#footer .container {
+    background: #333 ;
+    border-top: 3px solid #80AF2F ;
+}
+#footer .container p {
+    padding: 30px ;
+    color: #fff ;
+}
+#footer .container p a {
+    color: #3FC0DF ;
+}
+/*
+* Stilmallar för framsidan
+*/
+#main {
+    float: left ;
+    width: 500px ;
+    font-size: 1.1em ;
+}
+#latestEvent {
+    float: right ;
+    width: 350px ;
+
+}
+#latestEventHeader {
+    background: #015C65 ;
+    color: #fff;
+    margin: 0px ;
+    padding: 20px 20px ;    
+}
+#latestEventMain {
+    padding: 20px 20px 5px 20px ;
+    background: #fff ;
+}
+.event {
+    margin-bottom: 15px ;
+}
+/* 
+* Stilinformation för formulär
+*/
+.myForm {
+    font-size: 10px ;
+    font-weight: bold ;
+
+}
+.formField {
+    float: left ;
+    margin: 5px ;
+    width: 310px ;
+    background: #fff ;
+}
+.inactive {
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+}
+.formHeader, .formFooter, .formHeader2 {
+    background: #015C65 ;
+    color: #fff ;
+    margin: 0px ;
+    padding: 20px ;
+
+}
+.formHeader {
+    border-bottom: 1px solid #014E56 ;
+    text-align: left ;
+}
+.formHeader2 {
+    border-top: 1px solid #27747C ;
+    height: 50px ;
+}
+.formMain {
+    padding: 10px ;
+    height: 380px ;
+    
+}
+.formHeaderError {
+    border-bottom: 3px solid #CD6063 ;
+}
+.formFooter {
+    text-align: right ;
+    padding: 5px ;
+    height: 40px ;
+}
+.formError {
+    background: #CD6063 ;
+}
+input, textarea {
+    border: 2px solid #ccc ; 
+    background: #eee ;
+    width: 200px ;
+    padding: 8px ;
+    font-family: monospace ;
+}
+input:focus, textarea:focus {
+    border: 2px solid #000 ;
+}
+.submit {
+    font-family: Georgia ;
+    background: #3FC0DF ;
+    border: none ;
+    color: #fff ;
+    font-size: 2.5em ;
+    width: auto ;
+    padding: 2px ;
+}
+
+.submit:focus {
+    border: none ;
+}
+.submitTweet {
+    float: right;
+    position: relative ;
+    border: 2px solid #ccc ;
+    color: #fff ;
+    font-size: 2em ;
+    
+}
+.sendTweet {
+    width: 340px ;
+}
+.twitterInfo {
+    float: left ;
+    margin: 5px ;
+}
+#tweetDiv {
+    margin-bottom: 40px ;
+    color: #000 ;
+}
+input.submit:hover {
+    background: #fff ;
+    cursor: pointer ;
+    color: #3FC0DF ;
+    
+}
+.radio {
+    width: auto ;
+}
+.hidden {
+    display: none ;
+}
+
+/* Och så kommer stilmallar för att visa eventet */
+
+#mainHeader, #mainContent  {
+    background: #015C65 ;
+    padding: 30px 90px ;
+    color: #fff ;  
+}
+#mainHeader {
+    padding-top: 45px ;
+    border-bottom: 1px solid #014E56 ;
+}
+#weather {
+    float: right ;
+    width: 180px ;
+    text-align: center ;
+}
+.weatherIcon {
+    height: 80px ;
+    
+}
+.weatherTemperature {
+    position: relative ;
+    top: -20px ;
+    font-family: Georgia ;
+    font-size: 2.5em ;
+    
+}
+.headerInfo {
+    margin: 0px 25px ;
+    font-size: 12px ;
+    font-family: Georgia ;
+}
+#mainContent {
+    border-top: 1px solid #27747C ;
+}
+#mainContentRight {
+    float: right ;
+    width: 180px ;
+}
+#mainContentRight b {
+    font-size: 10px ;
+}
+#mainContentLeft {
+    float: left ;
+    width: 480px ;
+}
+
+#mainSocial {
+    padding: 30px 90px ;
+    background: #fff ;
+}
+
+#mainTwitter {
+    width: 360px ;
+    float: left ;    
+}
+#mainTwitter p {
+    margin-bottom: 30px ;
+}
+
+.twitterTime {
+    font-size: 10px ;
+    color: #797c80 ;
+}
+.tweetImg {
+    float: left ;
+    margin-right: 10px ;
+    
+}
+#mainFlickr {
+    width: 340px ;
+    float: right ;
+}
+.thumb {
+    border: 2px solid #aaa ;
+    background: #333 ;
+    margin: 2px ;
+    text-align: center ;
+    padding: 2px ;
+}
+.participate {
+    display: block ;
+    text-align: center ;
+    font-family: Georgia ;
+    background: #3FC0DF ;
+    border: none ;
+    color: #fff ;
+    font-size: 2em ;
+    width: auto ;
+    padding: 5px ; 
+}
+
+
+#pass {
+    margin: 0 auto ;
+    width: 550px ;
+}
+.sendPass {
+    position: relative ;
+    top: 5px ;
+}
+/* Styling för tooltipen */
+.tooltip {
+	background-color:#000;
+	border:1px solid #fff;
+	padding:10px 15px;
+	width:200px;
+	display:none;
+	color:#fff;
+	text-align:left;
+	font-size:12px;
+        font-weight: normal ;
+        z-index: 100 ;
+	/* outline radius for mozilla/firefox only */
+	-moz-box-shadow:0 0 10px #000;
+	-webkit-box-shadow:0 0 10px #000;
+}
+.tooltip .error {
+    color: #BE3731 ;
+    margin-top: 5px ;
+    font-weight: bold ;
+}
+.errorDiv {
+    border: 3px solid  #000 ;
+    background: #BE3731 ;
+    color: #fff ;
+    padding: 10px ;
+    margin: 10px ;
+    font-size: 1em ;
+    font-weight: bold ;
+    filter:alpha(opacity=70);
+    -moz-opacity:0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+}
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 20px;
+}
+
+.clr {
+    clear: both ;
+}
